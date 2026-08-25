@@ -8,8 +8,9 @@ public class MyClass {
 
 class Toast {
     public static void makeToast() {
-        // Print the three steps of the toast algorithm here.
-        // Each step should appear on its own line.
+        // Need to get bread
+        // Toast the bread
+        // Butter the bread
     }
 }
 
