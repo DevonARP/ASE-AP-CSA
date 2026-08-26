@@ -14,6 +14,18 @@ public class Main {
     System.out.println(count);
     System.out.println(temperature);
     System.out.println(isRaining);
-
+    
+    //Escape Sequences
+    System.out.println("She said \"hello\"");
+    System.out.println("File path: C:\\Users\\Documents");
+    System.out.println("First\nSecond\nThird");
+    
+    //Concatenation
+    System.out.println(1+2);
+    System.out.println("Number: " + 1 + 2);
+    System.out.println("Number: " + (1 + 2));
+    
   }
 }
+
+
