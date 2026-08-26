@@ -8,6 +8,6 @@ public class Main {
 
   
     public static int addNumbers(int a, int b) {
-        return a+b;
+        return 0; //Edit here
     }
 }
