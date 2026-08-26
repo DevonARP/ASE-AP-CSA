@@ -6,7 +6,6 @@ public class Main {
         System.out.println("Integer: " + result);
     }
     
-    // Static function to add two numbers
     public static int castDoubleToInt(double value) {
         
         //Write code here
